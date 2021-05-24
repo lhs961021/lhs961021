@@ -1,4 +1,4 @@
-<h2 align="center">Hi I'm HyeongSeok!👋 </h2> <br>
+<h2 align="center">Hi, I'm HyeongSeok!👋 </h2> <br>
 
 
 
