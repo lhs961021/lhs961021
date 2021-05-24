@@ -1,7 +1,5 @@
 <h2 align="center">Hi, I'm HyeongSeok!👋 </h2> <br>
 
-
-
 <h3 align="center">🛠 Techs that I've used at least once 🛠</h3>
 
 <p align="center">
