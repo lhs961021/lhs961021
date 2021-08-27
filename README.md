@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm HyeongSeok!👋 </h2> <br>
 
 
-//![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhs961021&show_icons=true&theme=dracula)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhs961021&show_icons=true&theme=dracula) -->
 
 <h3 align="center">🛠 Techs that I've used at least once 🛠</h3>
 
