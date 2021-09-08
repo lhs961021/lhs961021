@@ -26,7 +26,9 @@
   <a href="https://www.instagram.com/yolololo_hs/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
 </p>
 
-
+<p align="center>
+          [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhs961021&layout=compact)](https://github.com/anuraghazra/github-readme-stas)
+</p>
 
 <!--
 - 🔭 I’m currently working on ...
