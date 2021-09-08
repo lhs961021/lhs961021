@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/></a>&nbsp
   <img src="https://img.shields.io/badge/Amazon-FF9900?style=flat-square&logo=amazon-aws"/></a>&nbsp
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=Java"/></a>&nbsp
 </p>
 <br>
 
@@ -26,9 +27,10 @@
   <a href="https://www.instagram.com/yolololo_hs/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
 </p>
 
+<!-- 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lhs961021)](https://github.com/anuraghazra/github-readme-stas)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhs961021&layout=compact)](https://github.com/anuraghazra/github-readme-stas)
-
+ -->
 
 <!--
 - 🔭 I’m currently working on ...
