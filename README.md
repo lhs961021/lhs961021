@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/></a>&nbsp
   <img src="https://img.shields.io/badge/Amazon-FF9900?style=flat-square&logo=amazon-aws"/></a>&nbsp
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Java-ff7f00f?style=flat-square&logo=Java"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Java-ff7f00?style=flat-square&logo=Java"/></a>&nbsp
 </p>
 <br>
 
