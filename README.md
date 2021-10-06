@@ -28,7 +28,8 @@
 </p><br> 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lhs961021)](https://github.com/anuraghazra/github-readme-stas)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lhs961021)](https://github.com/anuraghazra/github-readme-stas) -->
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhs961021&layout=compact)](https://github.com/anuraghazra/github-readme-stas) -->
 
 
