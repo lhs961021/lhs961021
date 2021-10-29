@@ -27,8 +27,9 @@
   <a href="https://www.instagram.com/yolololo_hs/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
 </p><br> 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hyeongseok)
-
+<div align=center>
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hyeongseok)
+</div>
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lhs961021)](https://github.com/anuraghazra/github-readme-stas) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhs961021&layout=compact)](https://github.com/anuraghazra/github-readme-stas) -->
