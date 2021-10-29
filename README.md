@@ -1,11 +1,11 @@
-<h2 align="center">Hi, I'm HyeongSeok!👋 </h2> <br>
+<h2>Hi, I'm HyeongSeok!👋 </h2> <br>
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhs961021&show_icons=true&theme=dracula) -->
 
-<h3 align="center">🛠 Techs that I've used at least once 🛠</h3>
+<h3>🛠 Techs that I've used at least once 🛠</h3>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/R-276D73?style=flat-square&logo=r"/></a>&nbsp
@@ -21,14 +21,14 @@
 <br>
 
 
-<h3 align="center"> 😄Who am I?😄 </h3>
+<h3> 😄Who am I?😄 </h3>
 
-<p align="center">
+<p>
   <a href="https://www.instagram.com/yolololo_hs/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
 </p><br> 
 
 
-<h3 align="center"> Contact me </h3>
+<h3> Contact me </h3>
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hyeongseok)
 
