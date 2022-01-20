@@ -36,6 +36,8 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhs961021&layout=compact)](https://github.com/anuraghazra/github-readme-stas) -->
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lhs961021](https://solved.ac/lhs961021)
 
 <!--
 - 🔭 I’m currently working on ...
