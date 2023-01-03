@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/R-276D73?style=flat-square&logo=r"/></a>&nbsp
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django"/></a>&nbsp
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
+    <br>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3"/></a>&nbsp
     <img src="https://img.shields.io/badge/Amazon-FF9900?style=flat-square&logo=amazon-aws"/></a>&nbsp
     <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity"/></a>&nbsp
@@ -36,23 +37,14 @@
 
 <p align="center">
   <a href="https://www.instagram.com/yolololo_hs/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
-</p> 
-<br>
-
-<h3 align="center"> Contact me </h3>
-<p align="center">
   <a href="https://www.linkedin.com/in/hyeongseok" target ="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyeongseok"/></a>&nbsp
+</p> 
 <br>
 
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lhs961021)](https://github.com/anuraghazra/github-readme-stas) -->
 
-<br>
-
-
 <div align="center"> 
 <h3> My Rank </h3>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhs961021&show_icons=true&theme=tokyonight)
   
 [![lhs961021's solved.ac profile(v2)](http://mazassumnida.wtf/api/v2/generate_badge?boj=lhs961021)](https://solved.ac/lhs961021)
   
