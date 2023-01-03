@@ -48,8 +48,8 @@
 
 <br>
 
-<div align="center">
-  <h3 align="center"> My Rank </h3>
+<h3 align="center"> My Rank </h3>
+<div align="center">  
     [![lhs961021's solved.ac profile(v2)](http://mazassumnida.wtf/api/v2/generate_badge?boj=lhs961021)](https://solved.ac/lhs961021)
 </div>
 
