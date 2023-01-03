@@ -40,6 +40,7 @@
 
 
 <h3 align="center"> Contact me </h3>
+<p align="center">
   <a href="https://www.linkedin.com/in/hyeongseok" target ="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyeongseok"/></a>&nbsp
 
 <!--   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hyeongseok) -->
