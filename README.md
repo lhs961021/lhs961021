@@ -17,9 +17,24 @@
   <img src="https://img.shields.io/badge/Amazon-FF9900?style=flat-square&logo=amazon-aws"/></a>&nbsp
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity"/></a>&nbsp
   <img src="https://img.shields.io/badge/Java-ff7f00?style=flat-square&logo=Java"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot"/></a>&nbsp
 </p>
 <br>
 
+
+<h3>💻 Collaborate Tools 💻</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/></a>&nbsp
+
+</p>
+<br>
 
 <h3> 😄Who am I?😄 </h3>
 
@@ -41,7 +56,7 @@
 <h3> My Rank </h3>
 
 [![lhs961021's solved.ac profile(v2)](http://mazassumnida.wtf/api/v2/generate_badge?boj=lhs961021)](https://solved.ac/lhs961021)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhs961021&layout=compact)](https://github.com/anuraghazra/github-readme-stas)
+
 
 <!--
 - 🔭 I’m currently working on ...
