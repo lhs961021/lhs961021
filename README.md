@@ -41,6 +41,8 @@
 <h3> My Rank </h3>
 
 [![lhs961021's solved.ac profile(v2)](http://mazassumnida.wtf/api/v2/generate_badge?boj=lhs961021)](https://solved.ac/lhs961021)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhs961021&show_icons=true&theme=tokyonight)
+
 
 
 <!--
