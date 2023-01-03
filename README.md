@@ -48,9 +48,10 @@
 
 <br>
 
-<h3 align="center"> My Rank </h3>
-<div align="center">  
-    [![lhs961021's solved.ac profile(v2)](http://mazassumnida.wtf/api/v2/generate_badge?boj=lhs961021)](https://solved.ac/lhs961021)
+<!-- <h3 align="center"> My Rank </h3> -->
+<div align="center">
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhs961021&show_icons=true&theme=tokyonight)
+    ![lhs961021's solved.ac profile(v2)](http://mazassumnida.wtf/api/v2/generate_badge?boj=lhs961021)](https://solved.ac/lhs961021)
 </div>
 
 <!--
