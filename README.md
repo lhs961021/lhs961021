@@ -50,9 +50,8 @@
 <br>
 
 <h3 align="center"> My Rank </h3>
-<p align="center">
 [![lhs961021's solved.ac profile(v2)](http://mazassumnida.wtf/api/v2/generate_badge?boj=lhs961021)](https://solved.ac/lhs961021)
-</p>
+
 
 <!--
 - 🔭 I’m currently working on ...
