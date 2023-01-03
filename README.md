@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3"/></a>&nbsp
     <img src="https://img.shields.io/badge/Amazon-FF9900?style=flat-square&logo=amazon-aws"/></a>&nbsp
     <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Java-ff7f00?style=flat-square&logo=Java"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Java-ff7f00?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>&nbsp
   </p>
 <br>
